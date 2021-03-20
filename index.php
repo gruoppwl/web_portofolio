@@ -69,10 +69,134 @@
     <!-- END ABOUT -->
     
     <!-- TEAM -->
-    
+    <section id="team" class="team">
+
+<div class="container py-5 ">
+  <div class="row text-center">
+    <div class="col-lg-8 mx-auto col-md-12 col-sm-12 col-12">
+      <h2>Team</h2>
+      <p>This is Our Team</p>
+    </div>
+  </div>
+  <div class="row pt-5">
+    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+      <div class="row">
+        <div class="teamimg col-lg-5 col-md-6 col-sm-6 col-6">
+          <img src="./img/ilham.png" class="img-fluid" alt="Mochammad Ilham Maulana">
+        </div>
+        <div class="teamstatus col-lg-7 col-md-6 col-sm-6 col-6 pt-3">
+          <h5>Mochammad Ilham Maulana</h5>
+          <small>LEADER</small>
+          <p class="p1">Too much coding then sleep is not a life, but life is when you can still see, and breathing in the morning</p>
+          <span><i class="team fab fa-facebook"></i></span>
+          <span><i class="team fab fa-instagram"></i></span>
+          <span><i class="team fab fa-google-plus"></i></span>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+      <div class="row">
+        <div class="teamimg col-lg-5 col-md-6 col-sm-6 col-6">
+          <img src="./img/rifki.png" class="img-fluid" alt="Mochammad Ilham Maulana">
+        </div>
+        <div class="teamstatus col-lg-7 col-md-6 col-sm-6 col-6 pt-3">
+          <h5>Muhammad Rifki Muzakki</h5>
+          <small>MAIN CONTENT CREATOR</small>
+          <p class="p1">Life with your sleep</p>
+          <span><i class="team fab fa-facebook"></i></span>
+          <span><i class="team fab fa-instagram"></i></span>
+          <span><i class="team fab fa-google-plus"></i></span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row pt-5">
+    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+      <div class="row">
+        <div class="teamimg col-lg-5 col-md-6 col-sm-6 col-6">
+          <img src="./img/agugi.png" class="img-fluid" alt="Mochammad Ilham Maulana">
+        </div>
+        <div class="teamstatus col-lg-7 col-md-6 col-sm-6 col-6 pt-3">
+          <h5>Gugi Gustama</h5>
+          <small>FOOTER CREATOR</small>
+          <p class="p1">Life with your sleep</p>
+          <span><i class="team fab fa-facebook"></i></span>
+          <span><i class="team fab fa-instagram"></i></span>
+          <span><i class="team fab fa-google-plus"></i></span>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+      <div class="row">
+        <div class="teamimg col-lg-5 col-md-6 col-sm-6 col-6">
+          <img src="./img/izal.png" class="img-fluid" alt="Mochammad Ilham Maulana">
+        </div>
+        <div class="teamstatus col-lg-7 col-md-6 col-sm-6 col-6 pt-3">
+          <h5>Samsul Rizal</h5>
+          <small>HEADER CREATOR</small>
+          <p class="p1">Life with your sleep</p>
+          <span><i class="team fab fa-facebook"></i></span>
+          <span><i class="team fab fa-instagram"></i></span>
+          <span><i class="team fab fa-google-plus"></i></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</section>
     <!-- END TEAM -->
     
     <!-- JOB DESCRIPTION -->
+    <section id="jobdesc">
+    <div class="container pt-5 pb-5">
+      <div class="row">
+        <div class="col text-center ">
+          <h2>Job Description</h2>
+        </div>
+      </div>
+      <div class="job row pt-5">
+        <div class="col-md">
+          <div class="card">
+            <img src=" img/ilham.png" alt="" class="card-img-top">
+            <div class="card-body">
+              <p>"I'm a leader of this group and i'm work for styling and making parallax" </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md">
+          <div class="card">
+            <img src=" img/rifki.png" alt="" class="card-img-top">
+            <div class="card-body">
+              <p>"I'm created of main content such us Team and Job Description Section" </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md">
+          <div class="card">
+            <img src=" img/agugi.png" alt="" class="card-img-top">
+            <div class="card-body">
+              <p>"I'm created end of content section like contact section and footer section" </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md">
+          <div class="card">
+            <img src=" img/izal.png" alt="" class="card-img-top">
+            <div class="card-body">
+              <p>"I'm created header section such as navbar, jumbotron and about section" </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+  </section>
+
     <!-- END JOB DESCRIPTION -->
 
     <!-- CONTACT -->
