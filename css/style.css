@@ -290,3 +290,19 @@ small {
 }
 
 /* END JOBDESCRIPTION SECTION */
+
+/* CONTACT SECTION */
+#contact h2 {
+  padding-top: 40px;
+  font-size: 48px;
+  font-family: viga font;
+}
+
+/* END CONTACT SECTION */
+
+/* FOOTER SECTION */
+#foot {
+  background-color: #343a40 !important;
+}
+
+/* END FOOTER SECTION  */
