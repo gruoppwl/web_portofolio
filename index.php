@@ -7,6 +7,35 @@
     <title>Document</title>
 </head>
 <body>
+    <!-- HEADER CONTENT -->
+    <!-- NAVBAR -->
     
+    <!-- END NAVBAR -->
+    
+    <!-- JUMBOTRON -->
+    
+    <!-- END JUMBOTRON -->
+    
+    <!-- END HEADER CONTENT -->
+    
+    <!-- MAIN CONTENT -->
+    <!-- ABOUT -->
+    <!-- END ABOUT -->
+    
+    <!-- TEAM -->
+    
+    <!-- END TEAM -->
+    
+    <!-- JOB DESCRIPTION -->
+    <!-- END JOB DESCRIPTION -->
+
+    <!-- CONTACT -->
+    
+    <!-- END CONTACT -->
+    <!-- END MAIN CONTENT -->
+    
+    <!-- FOOTER -->
+    
+    <!-- END FOOTER -->
 </body>
 </html>
