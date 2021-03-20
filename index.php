@@ -1,17 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="./css/bootstrap.min.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Group 8</title>
+  <link rel="stylesheet" href="./css/bootstrap.min.css">
   <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./font-awesome/css/all.css">
+  <link rel="stylesheet" href="./font-awesome/css/fontawesome.css">
+  <link rel="stylesheet" href="./font-awesome/css/brands.css">
+  <link rel="stylesheet" href="./font-awesome/css/solid.css">
+
 </head>
-<body>
-    <!-- HEADER CONTENT -->
-    <!-- NAVBAR -->  
-    <nav id="navbar" class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark ">
+
+<body class="" data-spy="scroll" data-target="#navbar">
+  <!-- HEADER CONTENT -->
+  <!-- NAVBAR -->
+  <nav id="navbar" class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark ">
     <div class="container">
       <a class="navbar-brand" href="#">GROUP EIGHT</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -29,25 +36,25 @@
     </div>
   </nav>
 
-    
-    <!-- END NAVBAR -->
-    
-    <!-- JUMBOTRON -->
-    <div id="parallax" class="jumbotron jumbotron-fluid">
+
+  <!-- END NAVBAR -->
+
+  <!-- JUMBOTRON -->
+  <div id="parallax" class="jumbotron jumbotron-fluid">
 
     <div class="container">
       <h1 class="display-4">Welcome to <span>Group 8</span><br>Experiment <span>Website</span></h1>
 
     </div>
   </div>
-    
-    <!-- END JUMBOTRON -->
-    
-    <!-- END HEADER CONTENT -->
-    
-    <!-- MAIN CONTENT -->
-    <!-- ABOUT -->
-    <section id="about">
+
+  <!-- END JUMBOTRON -->
+
+  <!-- END HEADER CONTENT -->
+
+  <!-- MAIN CONTENT -->
+  <!-- ABOUT -->
+  <section id="about">
     <div class="container">
       <div class="row about mb-5 pt-5">
         <div class="col text-center">
@@ -66,90 +73,90 @@
       </div>
     </div>
   </section>
-    <!-- END ABOUT -->
-    
-    <!-- TEAM -->
-    <section id="team" class="team">
+  <!-- END ABOUT -->
 
-<div class="container py-5 ">
-  <div class="row text-center">
-    <div class="col-lg-8 mx-auto col-md-12 col-sm-12 col-12">
-      <h2>Team</h2>
-      <p>This is Our Team</p>
-    </div>
-  </div>
-  <div class="row pt-5">
-    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-      <div class="row">
-        <div class="teamimg col-lg-5 col-md-6 col-sm-6 col-6">
-          <img src="./img/ilham.png" class="img-fluid" alt="Mochammad Ilham Maulana">
+  <!-- TEAM -->
+  <section id="team" class="team">
+
+    <div class="container py-5 ">
+      <div class="row text-center">
+        <div class="col-lg-8 mx-auto col-md-12 col-sm-12 col-12">
+          <h2>Team</h2>
+          <p>This is Our Team</p>
         </div>
-        <div class="teamstatus col-lg-7 col-md-6 col-sm-6 col-6 pt-3">
-          <h5>Mochammad Ilham Maulana</h5>
-          <small>LEADER</small>
-          <p class="p1">Too much coding then sleep is not a life, but life is when you can still see, and breathing in the morning</p>
-          <span><i class="team fab fa-facebook"></i></span>
-          <span><i class="team fab fa-instagram"></i></span>
-          <span><i class="team fab fa-google-plus"></i></span>
+      </div>
+      <div class="row pt-5">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+          <div class="row">
+            <div class="teamimg col-lg-5 col-md-6 col-sm-6 col-6">
+              <img src="./img/ilham.png" class="img-fluid" alt="Mochammad Ilham Maulana">
+            </div>
+            <div class="teamstatus col-lg-7 col-md-6 col-sm-6 col-6 pt-3">
+              <h5>Mochammad Ilham Maulana</h5>
+              <small>LEADER</small>
+              <p class="p1">Hidup itu sederhana. Goreng, angkat, lalu tiriskan</p>
+              <span><i class="team fab fa-facebook"></i></span>
+              <span><i class="team fab fa-instagram"></i></span>
+              <span><i class="team fab fa-google-plus"></i></span>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+          <div class="row">
+            <div class="teamimg col-lg-5 col-md-6 col-sm-6 col-6">
+              <img src="./img/rifki.png" class="img-fluid" alt="Mochammad Ilham Maulana">
+            </div>
+            <div class="teamstatus col-lg-7 col-md-6 col-sm-6 col-6 pt-3">
+              <h5>Muhammad Rifki Muzakki</h5>
+              <small>MAIN CONTENT CREATOR</small>
+              <p class="p1">Moal ingkah sanajan diguyur</p>
+              <span><i class="team fab fa-facebook"></i></span>
+              <span><i class="team fab fa-instagram"></i></span>
+              <span><i class="team fab fa-google-plus"></i></span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row pt-5">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+          <div class="row">
+            <div class="teamimg col-lg-5 col-md-6 col-sm-6 col-6">
+              <img src="./img/agugi.png" class="img-fluid" alt="Mochammad Ilham Maulana">
+            </div>
+            <div class="teamstatus col-lg-7 col-md-6 col-sm-6 col-6 pt-3">
+              <h5>Gugi Gustama</h5>
+              <small>FOOTER CREATOR</small>
+              <p class="p1">Banyaklah tidur dibanding coding</p>
+              <span><i class="team fab fa-facebook"></i></span>
+              <span><i class="team fab fa-instagram"></i></span>
+              <span><i class="team fab fa-google-plus"></i></span>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+          <div class="row">
+            <div class="teamimg col-lg-5 col-md-6 col-sm-6 col-6">
+              <img src="./img/izal.png" class="img-fluid" alt="Mochammad Ilham Maulana">
+            </div>
+            <div class="teamstatus col-lg-7 col-md-6 col-sm-6 col-6 pt-3">
+              <h5>Samsul Rizal</h5>
+              <small>HEADER CREATOR</small>
+              <p class="p1">Contohlah tukang parkir. Meskipun punya banyak mobil, ia tak pernah sombong karena ia tahu semua itu hanya titipan</p>
+              <span><i class="team fab fa-facebook"></i></span>
+              <span><i class="team fab fa-instagram"></i></span>
+              <span><i class="team fab fa-google-plus"></i></span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
-    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-      <div class="row">
-        <div class="teamimg col-lg-5 col-md-6 col-sm-6 col-6">
-          <img src="./img/rifki.png" class="img-fluid" alt="Mochammad Ilham Maulana">
-        </div>
-        <div class="teamstatus col-lg-7 col-md-6 col-sm-6 col-6 pt-3">
-          <h5>Muhammad Rifki Muzakki</h5>
-          <small>MAIN CONTENT CREATOR</small>
-          <p class="p1">Life with your sleep</p>
-          <span><i class="team fab fa-facebook"></i></span>
-          <span><i class="team fab fa-instagram"></i></span>
-          <span><i class="team fab fa-google-plus"></i></span>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="row pt-5">
-    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-      <div class="row">
-        <div class="teamimg col-lg-5 col-md-6 col-sm-6 col-6">
-          <img src="./img/agugi.png" class="img-fluid" alt="Mochammad Ilham Maulana">
-        </div>
-        <div class="teamstatus col-lg-7 col-md-6 col-sm-6 col-6 pt-3">
-          <h5>Gugi Gustama</h5>
-          <small>FOOTER CREATOR</small>
-          <p class="p1">Life with your sleep</p>
-          <span><i class="team fab fa-facebook"></i></span>
-          <span><i class="team fab fa-instagram"></i></span>
-          <span><i class="team fab fa-google-plus"></i></span>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-      <div class="row">
-        <div class="teamimg col-lg-5 col-md-6 col-sm-6 col-6">
-          <img src="./img/izal.png" class="img-fluid" alt="Mochammad Ilham Maulana">
-        </div>
-        <div class="teamstatus col-lg-7 col-md-6 col-sm-6 col-6 pt-3">
-          <h5>Samsul Rizal</h5>
-          <small>HEADER CREATOR</small>
-          <p class="p1">Life with your sleep</p>
-          <span><i class="team fab fa-facebook"></i></span>
-          <span><i class="team fab fa-instagram"></i></span>
-          <span><i class="team fab fa-google-plus"></i></span>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 
-</section>
-    <!-- END TEAM -->
-    
-    <!-- JOB DESCRIPTION -->
-    <section id="jobdesc">
+  </section>
+  <!-- END TEAM -->
+
+  <!-- JOB DESCRIPTION -->
+  <section id="jobdesc">
     <div class="container pt-5 pb-5">
       <div class="row">
         <div class="col text-center ">
@@ -197,10 +204,10 @@
 
   </section>
 
-    <!-- END JOB DESCRIPTION -->
+  <!-- END JOB DESCRIPTION -->
 
-    <!-- CONTACT -->
-    <section id="contact" class="contact mb-5 pt-5">
+  <!-- CONTACT -->
+  <section id="contact" class="contact mb-5 pt-5">
     <div class="container">
       <div class="row pt-4 mb-4">
         <div class="col text-center">
@@ -255,11 +262,11 @@
       </div>
     </div>
   </section>
-    <!-- END CONTACT -->
-    <!-- END MAIN CONTENT -->
-    
-    <!-- FOOTER -->
-    <footer id="foot" class="page-footer bg-dark">
+  <!-- END CONTACT -->
+  <!-- END MAIN CONTENT -->
+
+  <!-- FOOTER -->
+  <footer id="foot" class="page-footer bg-dark">
     <div class="headfoot">
       <div class="container">
         <div class="row py-4 d-flex align-items-center">
@@ -321,6 +328,18 @@
         <p>Designed By Our Group</p>
       </div>
   </footer>
-    <!-- END FOOTER -->
+  <!-- END FOOTER -->
+
+
+  <script src="./js/jquery/jquery.min.js"></script>
+  <script src="./js/jquery/jquery.js"></script>
+  <script src="js/bootstrap.bundle.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="./js/main.js"></script>
+  <script src="./font-awesome/js/all.js"></script>
+  <script src="./font-awesome/js/brands.js"></script>
+  <script src="./font-awesome/js/solid.js"></script>
+  <script src="./font-awesome/js/fontawesome.js"></script>
 </body>
+
 </html>
